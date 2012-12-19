@@ -1,0 +1,48 @@
+@font-face{
+	font-family:'Myriad';
+	src:url('../fonts/myriadpro.eot') format('embedded-opentype'),
+		url('../fonts/myriadpro.woff') format('woff'),
+		url('../fonts/myriadpro.ttf') format('truetype'),
+		url('../fonts/myriadpro.svg') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+	font-family: 'HelveticaMedium';
+	src: url('../fonts/helveticaneue_medium-webfont.eot');
+	src: url('../fonts/helveticaneue_medium-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/helveticaneue_medium-webfont.woff') format('woff'),
+		 url('../fonts/helveticaneue_medium-webfont.ttf') format('truetype'),
+		url('../fonts/helveticaneue_medium-webfont.svg#helveticaneuemedium') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadLItalic';
+	src: url('../fonts/MyriadPro-It.eot');
+	src: url('../fonts/MyriadPro-It.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MyriadPro-It.woff') format('woff'),
+		url('../fonts/MyriadPro-It.ttf') format('truetype'),
+		url('../fonts/MyriadPro-It.svg#MyriadItalic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadPro-BoldI';
+	src: url('../fonts/MyriadPro-BoldIt.eot');
+	src: url('../fonts/MyriadPro-BoldIt.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MyriadPro-BoldIt.ttf') format('truetype'),
+		url('../fonts/MyriadPro-BoldIt.svg#MyriadItalic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Days';
+	src: url('../fonts/days-webfont.eot');
+	src: url('../fonts/days-webfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/days-webfont.woff') format('woff'),
+		url('../fonts/days-webfont.ttf') format('truetype'),
+		url('../fonts/days-webfont.svg#daysregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
