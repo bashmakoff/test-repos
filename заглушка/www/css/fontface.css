@@ -1,0 +1,71 @@
+
+@font-face {
+	font-family: 'quicksand_boldregular';
+	src: url('../fonts/quicksand_bold-webfont.eot');
+	src: url('../fonts/quicksand_bold-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_bold-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_bold-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_bold-webfont.svg#quicksand_boldregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_bold_obliqueregular';
+	src: url('../fonts/quicksand_bold_oblique-webfont.eot');
+	src: url('../fonts/quicksand_bold_oblique-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_bold_oblique-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_bold_oblique-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_bold_oblique-webfont.svg#quicksand_bold_obliqueregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_bookregular';
+	src: url('../fonts/quicksand_book-webfont.eot');
+	src: url('../fonts/quicksand_book-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_book-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_book-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_book-webfont.svg#quicksand_bookregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_book_obliqueregular';
+	src: url('../fonts/quicksand_book_oblique-webfont.eot');
+	src: url('../fonts/quicksand_book_oblique-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_book_oblique-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_book_oblique-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_book_oblique-webfont.svg#quicksand_book_obliqueregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_dashregular';
+	src: url('../fonts/quicksand_dash-webfont.eot');
+	src: url('../fonts/quicksand_dash-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_dash-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_dash-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_dash-webfont.svg#quicksand_dashregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_lightregular';
+	src: url('../fonts/quicksand_light-webfont.eot');
+	src: url('../fonts/quicksand_light-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_light-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_light-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_light-webfont.svg#quicksand_lightregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand_light_obliqueRg';
+	src: url('../fonts/quicksand_light_oblique-webfont.eot');
+	src: url('../fonts/quicksand_light_oblique-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/quicksand_light_oblique-webfont.woff') format('woff'),
+		 url('../fonts/quicksand_light_oblique-webfont.ttf') format('truetype'),
+		 url('../fonts/quicksand_light_oblique-webfont.svg#quicksand_light_obliqueRg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
